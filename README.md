@@ -72,7 +72,7 @@ Make sure to press the correct key at the right time to match the move and score
 
 ## Game Screenshot
 
-![Game Screenshot](images/screenshot1.png)
+![Game Screenshot](images/Screenshot1.png)
 
 ---
 
